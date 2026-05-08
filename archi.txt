@@ -5,51 +5,51 @@ rainbow-simulation/
 │
 ├── include/
 │   ├── math/
-│   │   ├── Vec2.hpp
-│   │   ├── Ray.hpp
-│   │   └── Geometry.hpp
+│   │   ├── vec2.hpp
+│   │   ├── ray.hpp
+│   │   └── geometry.hpp
 │   │
 │   ├── physics/
-│   │   ├── Optics.hpp
-│   │   └── Dispersion.hpp
+│   │   ├── optics.hpp
+│   │   └── dispersion.hpp
 │   │
 │   ├── scene/
-│   │   ├── Droplet.hpp
-│   │   ├── LightSource.hpp
-│   │   └── SimulationScene.hpp
+│   │   ├── droplet.hpp
+│   │   ├── lightSource.hpp
+│   │   └── simulationScene.hpp
 │   │
 │   ├── simulation/
-│   │   ├── RayPath.hpp
-│   │   ├── SimulationResult.hpp
-│   │   └── GeometricSimulation.hpp
+│   │   ├── rayPath.hpp
+│   │   ├── simulationResult.hpp
+│   │   └── geometricSimulation.hpp
 │   │
 │   └── render/
-│       └── Renderer.hpp
+│       └── renderer.hpp
 │
 ├── src/
 │   ├── main.cpp
 │   │
 │   ├── math/
-│   │   ├── Vec2.cpp
-│   │   ├── Ray.cpp
-│   │   └── Geometry.cpp
+│   │   ├── vec2.cpp
+│   │   ├── ray.cpp
+│   │   └── geometry.cpp
 │   │
 │   ├── physics/
-│   │   ├── Optics.cpp
-│   │   └── Dispersion.cpp
+│   │   ├── optics.cpp
+│   │   └── dispersion.cpp
 │   │
 │   ├── scene/
-│   │   ├── Droplet.cpp
-│   │   ├── LightSource.cpp
-│   │   └── SimulationScene.cpp
+│   │   ├── droplet.cpp
+│   │   ├── lightSource.cpp
+│   │   └── simulationScene.cpp
 │   │
 │   ├── simulation/
-│   │   ├── RayPath.cpp
-│   │   ├── SimulationResult.cpp
-│   │   └── GeometricSimulation.cpp
+│   │   ├── rayPath.cpp
+│   │   ├── simulationResult.cpp
+│   │   └── geometricSimulation.cpp
 │   │
 │   └── render/
-│       └── Renderer.cpp
+│       └── renderer.cpp
 │
 └── tests/
     ├── test_reflection.cpp
