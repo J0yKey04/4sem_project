@@ -1,0 +1,57 @@
+rainbow-simulation/
+│
+├── CMakeLists.txt
+├── README.md
+│
+├── include/
+│   ├── math/
+│   │   ├── Vec2.hpp
+│   │   ├── Ray.hpp
+│   │   └── Geometry.hpp
+│   │
+│   ├── physics/
+│   │   ├── Optics.hpp
+│   │   └── Dispersion.hpp
+│   │
+│   ├── scene/
+│   │   ├── Droplet.hpp
+│   │   ├── LightSource.hpp
+│   │   └── SimulationScene.hpp
+│   │
+│   ├── simulation/
+│   │   ├── RayPath.hpp
+│   │   ├── SimulationResult.hpp
+│   │   └── GeometricSimulation.hpp
+│   │
+│   └── render/
+│       └── Renderer.hpp
+│
+├── src/
+│   ├── main.cpp
+│   │
+│   ├── math/
+│   │   ├── Vec2.cpp
+│   │   ├── Ray.cpp
+│   │   └── Geometry.cpp
+│   │
+│   ├── physics/
+│   │   ├── Optics.cpp
+│   │   └── Dispersion.cpp
+│   │
+│   ├── scene/
+│   │   ├── Droplet.cpp
+│   │   ├── LightSource.cpp
+│   │   └── SimulationScene.cpp
+│   │
+│   ├── simulation/
+│   │   ├── RayPath.cpp
+│   │   ├── SimulationResult.cpp
+│   │   └── GeometricSimulation.cpp
+│   │
+│   └── render/
+│       └── Renderer.cpp
+│
+└── tests/
+    ├── test_reflection.cpp
+    ├── test_refraction.cpp
+    └── test_intersection.cpp
