@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_reflection.dir/tests/test_reflection.cpp.o CMakeFiles/test_reflection.dir/src/math/Vec2.cpp.o CMakeFiles/test_reflection.dir/src/math/Ray.cpp.o CMakeFiles/test_reflection.dir/src/math/Geometry.cpp.o CMakeFiles/test_reflection.dir/src/physics/Optics.cpp.o -o test_reflection

@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/test_intersection.dir/src/math/Geometry.cpp.o"
+  "CMakeFiles/test_intersection.dir/src/math/Geometry.cpp.o.d"
+  "CMakeFiles/test_intersection.dir/src/math/Ray.cpp.o"
+  "CMakeFiles/test_intersection.dir/src/math/Ray.cpp.o.d"
+  "CMakeFiles/test_intersection.dir/src/math/Vec2.cpp.o"
+  "CMakeFiles/test_intersection.dir/src/math/Vec2.cpp.o.d"
+  "CMakeFiles/test_intersection.dir/tests/test_intersection.cpp.o"
+  "CMakeFiles/test_intersection.dir/tests/test_intersection.cpp.o.d"
+  "test_intersection"
+  "test_intersection.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/test_intersection.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_intersection.dir/tests/test_intersection.cpp.o CMakeFiles/test_intersection.dir/src/math/Vec2.cpp.o CMakeFiles/test_intersection.dir/src/math/Ray.cpp.o CMakeFiles/test_intersection.dir/src/math/Geometry.cpp.o -o test_intersection

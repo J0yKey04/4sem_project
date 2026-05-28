@@ -1,0 +1,3 @@
+/Users/danilryazanov/programming/4sem/project_C++/final_version_mac/rainbow_mie_single_drop/build/CMakeFiles/rainbow_mie.dir
+/Users/danilryazanov/programming/4sem/project_C++/final_version_mac/rainbow_mie_single_drop/build/CMakeFiles/edit_cache.dir
+/Users/danilryazanov/programming/4sem/project_C++/final_version_mac/rainbow_mie_single_drop/build/CMakeFiles/rebuild_cache.dir

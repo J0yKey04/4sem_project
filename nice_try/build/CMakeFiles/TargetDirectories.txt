@@ -1,0 +1,7 @@
+/Users/danilryazanov/programming/4sem/project_C++/build/CMakeFiles/rainbow.dir
+/Users/danilryazanov/programming/4sem/project_C++/build/CMakeFiles/test_reflection.dir
+/Users/danilryazanov/programming/4sem/project_C++/build/CMakeFiles/test_refraction.dir
+/Users/danilryazanov/programming/4sem/project_C++/build/CMakeFiles/test_intersection.dir
+/Users/danilryazanov/programming/4sem/project_C++/build/CMakeFiles/test.dir
+/Users/danilryazanov/programming/4sem/project_C++/build/CMakeFiles/edit_cache.dir
+/Users/danilryazanov/programming/4sem/project_C++/build/CMakeFiles/rebuild_cache.dir

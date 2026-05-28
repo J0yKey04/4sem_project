@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/main.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/main.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/main.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/math/Vec2.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/math/Vec2.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/math/Ray.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/math/Ray.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/math/Geometry.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/math/Geometry.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/physics/Optics.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/physics/Optics.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/physics/Optics.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/physics/Optics.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/physics/Dispersion.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/physics/Dispersion.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/physics/Dispersion.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/physics/Dispersion.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/scene/Droplet.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/scene/Droplet.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/scene/Droplet.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/scene/Droplet.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/scene/LightSource.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/scene/LightSource.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/scene/LightSource.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/scene/LightSource.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/scene/SimulationScene.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/scene/SimulationScene.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/scene/SimulationScene.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/scene/SimulationScene.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/simulation/RayPath.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/simulation/RayPath.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/simulation/RayPath.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/simulation/RayPath.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/simulation/SimulationResult.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/simulation/SimulationResult.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/simulation/SimulationResult.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/simulation/SimulationResult.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/simulation/GeometricSimulation.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/simulation/GeometricSimulation.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/simulation/GeometricSimulation.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/simulation/GeometricSimulation.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/rainbow.dir/src/render/Renderer.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/render/Renderer.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/render/Renderer.cpp",
+  "output": "CMakeFiles/rainbow.dir/src/render/Renderer.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_reflection.dir/tests/test_reflection.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/tests/test_reflection.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/tests/test_reflection.cpp",
+  "output": "CMakeFiles/test_reflection.dir/tests/test_reflection.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_reflection.dir/src/math/Vec2.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "output": "CMakeFiles/test_reflection.dir/src/math/Vec2.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_reflection.dir/src/math/Ray.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "output": "CMakeFiles/test_reflection.dir/src/math/Ray.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_reflection.dir/src/math/Geometry.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "output": "CMakeFiles/test_reflection.dir/src/math/Geometry.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_reflection.dir/src/physics/Optics.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/physics/Optics.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/physics/Optics.cpp",
+  "output": "CMakeFiles/test_reflection.dir/src/physics/Optics.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_refraction.dir/tests/test_refraction.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/tests/test_refraction.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/tests/test_refraction.cpp",
+  "output": "CMakeFiles/test_refraction.dir/tests/test_refraction.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_refraction.dir/src/math/Vec2.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "output": "CMakeFiles/test_refraction.dir/src/math/Vec2.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_refraction.dir/src/math/Ray.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "output": "CMakeFiles/test_refraction.dir/src/math/Ray.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_refraction.dir/src/math/Geometry.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "output": "CMakeFiles/test_refraction.dir/src/math/Geometry.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_refraction.dir/src/physics/Optics.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/physics/Optics.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/physics/Optics.cpp",
+  "output": "CMakeFiles/test_refraction.dir/src/physics/Optics.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_intersection.dir/tests/test_intersection.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/tests/test_intersection.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/tests/test_intersection.cpp",
+  "output": "CMakeFiles/test_intersection.dir/tests/test_intersection.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_intersection.dir/src/math/Vec2.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Vec2.cpp",
+  "output": "CMakeFiles/test_intersection.dir/src/math/Vec2.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_intersection.dir/src/math/Ray.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Ray.cpp",
+  "output": "CMakeFiles/test_intersection.dir/src/math/Ray.cpp.o"
+},
+{
+  "directory": "/Users/danilryazanov/programming/4sem/project_C++/build",
+  "command": "/usr/bin/clang++  -I/Users/danilryazanov/programming/4sem/project_C++/include -g -std=c++17 -arch arm64 -o CMakeFiles/test_intersection.dir/src/math/Geometry.cpp.o -c /Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "file": "/Users/danilryazanov/programming/4sem/project_C++/src/math/Geometry.cpp",
+  "output": "CMakeFiles/test_intersection.dir/src/math/Geometry.cpp.o"
+}
+]

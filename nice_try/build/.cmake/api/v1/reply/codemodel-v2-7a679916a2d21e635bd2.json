@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-fd6451d79dc282e2f566.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rainbow_simulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rainbow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rainbow-Debug-99d21536851aa83f1f03.json",
+					"name" : "rainbow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_intersection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_intersection-Debug-78bd53f15b005701199a.json",
+					"name" : "test_intersection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_reflection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_reflection-Debug-765c36ff518801509fe6.json",
+					"name" : "test_reflection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_refraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_refraction-Debug-4bf44edbac0e1c42a151.json",
+					"name" : "test_refraction",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/danilryazanov/programming/4sem/project_C++/build",
+		"source" : "/Users/danilryazanov/programming/4sem/project_C++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}

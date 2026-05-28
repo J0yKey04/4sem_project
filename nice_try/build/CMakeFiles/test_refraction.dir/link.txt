@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_refraction.dir/tests/test_refraction.cpp.o CMakeFiles/test_refraction.dir/src/math/Vec2.cpp.o CMakeFiles/test_refraction.dir/src/math/Ray.cpp.o CMakeFiles/test_refraction.dir/src/math/Geometry.cpp.o CMakeFiles/test_refraction.dir/src/physics/Optics.cpp.o -o test_refraction
